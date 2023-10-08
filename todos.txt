@@ -1,0 +1,24 @@
+our objective: "Retrieve JSON data from an API and display them in the UI"
+
+    1. Learn  something about API
+    
+    2. Learn something about JSON
+
+    3. Learn to destructure different type of object 
+
+    4. Create UI using those object 
+
+    5. Fetch data from virus APIs
+
+    6. Build ui using data from random user API
+
+    ------------- Final Project ------------
+    -Explore openlibrary.org API 
+        Search boo via title 
+            Display them.
+    -Retrieve information about an author.
+        Display it in UI.
+    -Optional 
+        Handle wrong search. show error msg.
+        display spinner
+
